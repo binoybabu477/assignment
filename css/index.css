@@ -1,0 +1,8 @@
+
+/*section3*/
+.col-3 img{
+	width:125%;
+}
+.row{
+	justify-content: space-between;
+}
